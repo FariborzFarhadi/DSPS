@@ -1,2 +1,2 @@
-# curly-bassoon
-This description is gonna change when I get to the next step! by the way I'm assessed with AI!
+# About Me
+Hi! I’m a data scientist in the making, with roots in robotics (RoboCup 2005 machine vision) and industrial automation. Now focused on fintech, I’m sharing projects in Python, machine learning, and financial data analysis as I learn and grow.
